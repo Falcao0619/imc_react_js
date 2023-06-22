@@ -26,7 +26,7 @@ const App = () => (
           placeholder='Informe sua altura. Ex. 1.50 (Em Metros)' 
           />
 
-<input
+      <input
           type='number'
           placeholder='Informe seu peso. Ex. 50.3' 
           />
